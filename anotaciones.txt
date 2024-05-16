@@ -1,0 +1,7 @@
+
+Enfoque:
+¿Quienes mueren mas? 'MASCULINO', 'FEMENINO', 'SD'
+¿En que mueren mas? MOTO, AUTO, PEATON, SD, CARGAS,BICICLETA,PASAJEROS o MOVIL
+¿En donde mueren más? 'CONDUCTOR', 'PASAJERO_ACOMPAÑANTE', 'PEATON', 'SD', 'CICLISTA'
+Hora promedio de los accidentes
+Edad promedio de las personas que se accidentan
